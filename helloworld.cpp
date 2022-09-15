@@ -23,8 +23,7 @@ int main() {
     cout << p << endl;
     cout << *p << endl;
 
-    Sales_data data1, data2;
-    cin >> data1 >> data2;
-
     return 0;
+
+    //加了一行没啥用的注释
 };
